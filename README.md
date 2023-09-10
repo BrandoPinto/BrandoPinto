@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Brando, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197563.png" width="13"/> <b>Arequipa, Perú</b>.</p>
+<p>Welcome to my page! </br> I'm Brando, Systems developer and analyst from <img src="https://cdn-icons-png.flaticon.com/128/197/197563.png" width="13"/> <b>Arequipa, Perú</b>.</p>
 <h3>Things I code with</h3>
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
